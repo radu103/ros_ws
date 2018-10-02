@@ -1,0 +1,3 @@
+Run in Shell :
+
+rosrun xacro xacro --inorder model.sdf.xacro > model.sdf
